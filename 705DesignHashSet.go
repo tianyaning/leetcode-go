@@ -5,7 +5,7 @@ type MyHashSet struct {
 }
 
 /** Initialize your data structure here. */
-func Constructor() MyHashSet {
+func Constructorr() MyHashSet {
 	mySet := make([]bool, 1000001)
 	result := MyHashSet{
 		mySet: mySet,
